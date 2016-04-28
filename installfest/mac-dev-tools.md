@@ -212,6 +212,10 @@ ShiftIt offers a few shortcut keys like:
 
 You can try this now.
 
+### Dash
+
+[Download Dash](https://kapeli.com/dash) a fantastic application that organizes API documentation for developers. We'll use it more later as we dive deeper into the rich world of languages, frameworks, and libraries.
+
 ### Shortcut keys
 
 By the way, developers LOVE shortcut key combinations.  All of the shortcut keys listed above have special abbreviations.  If you have time later, you can read about those abbreviations and some shortcut key combinations <a href="https://support.apple.com/en-us/ht201236" target="_new">here</a>.  You should now see the ShiftIt icon in your menu-bar (at the top of your screen).
