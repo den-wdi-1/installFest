@@ -213,3 +213,7 @@ You can try this now.
 
 By the way, developers LOVE shortcut key combinations.  All of the shortcut keys listed above have special abbreviations.  If you have time later, you can read about those abbreviations and some shortcut key combinations [here](https://support.apple.com/en-us/HT201236Â).  You should now see the shiftIt icon in your menu-bar. (at the top)
 
+
+[ON TO STEP 2:  NODE.JS AND EXPRESS STACK](express-stack.md)
+
+

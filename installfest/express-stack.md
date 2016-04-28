@@ -101,4 +101,4 @@ RoboMongo is a GUI (Graphical User Interface) tool to let us see the data in our
 </details>
 
 
-
+[ON TO STEP 3: RUBY ON RAILS](ruby-on-rails-stack.md)
