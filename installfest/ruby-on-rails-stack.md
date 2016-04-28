@@ -19,7 +19,7 @@ If you are using an earlier version of RVM, Ruby or Rails, continue with the ins
 
 ## RVM and Ruby
 
-<a href="http://www.rvm.io" target="_blank">RVM</a> is a Ruby Version Manager. It lets you easily switch between versions of the ruby programming language for different projects.
+<a href="http://www.rvm.io" target="_new">RVM</a> is a Ruby Version Manager. It lets you easily switch between versions of the ruby programming language for different projects.
 
 1. Run the following command to install both RVM and the latest version of Ruby.
 
@@ -79,8 +79,13 @@ Let's install one more Atom package; this time it's a linter for ruby code.
 
 Postico is a GUI tool to view the contents of your Postgres database. 
 
-1. Go to [https://eggerapps.at/postico/](https://eggerapps.at/postico/) and download the free version.
+1. Go to <a href="https://eggerapps.at/postico/" target="_new">eggerapps.at/postico/</a> and download the free version.
 2. Install it by unzipping the downloaded zip and then dragging `Postico.app` into your `Applications` directory.
 
 </details>
+
+
+### Congratulations!
+This completes Installfest!
+
 

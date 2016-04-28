@@ -1,4 +1,4 @@
-# <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> WDI Installfest
+# <img src="../GA-WDI-29.png" width="60"> WDI Installfest
 
 We're going to install most of the tools we'll use in this course onto your computer today.
 

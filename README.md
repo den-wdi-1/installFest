@@ -3,4 +3,4 @@
 #### The purpose of this repository is to collect shared resources that don't really belong anywhere else.
 More resources will be added as we go along.
 
-<a href="installfest" target="_blank">Installfest</a>
+<a href="installfest" target="_new">Installfest</a>
