@@ -27,7 +27,7 @@ If you are using an earlier version of RVM, Ruby or Rails, continue with the ins
     \curl -L https://get.rvm.io | bash -s stable --ruby --auto-dotfiles
     ```
 
-**VERY IMPORTANT:**  When the installation is complete type `which ruby` in the terminal. The response should be `~/<your_user_name>/...`, NOT `~/usr/...`
+**VERY IMPORTANT:**  When the installation is complete type `which ruby` in the terminal. The response should be `~/<your_user_name>/...` NOT `~/usr/...`
 
 
 
