@@ -104,7 +104,7 @@ Configuring your git settings to help GitHub track your contributions and to mak
 
 __Optionally you can install Atom, but our instructional materials often reference Sublime. Instructions below to install Atom but you do not need both.__
 
-1. Use the following link to <a href="http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%20Build%203083.dmg">download Sublime Text 3</a>. 
+1. Use the following link to <a href="https://download.sublimetext.com/Sublime%20Text%20Build%203103.dmg">download Sublime Text 3 for Mac. To install for another system go [here](https://www.sublimetext.com/3)</a>. 
 
 2. Open the downloaded file.
 
