@@ -1,4 +1,4 @@
-# <img src="../GA-WDI-29.png" width="60"> WDI Installfest
+# <img src="WDI.png" width="60"> WDI Installfest
 
 We're going to install most of the tools we'll use in this course onto your computer today.
 
