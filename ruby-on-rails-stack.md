@@ -2,7 +2,7 @@
 
 **Plan overview:**
 
-1. Update your install of the ruby programming language and install rvm to manage versions of ruby.
+1. Update your install of the ruby programming language and install rbenv to manage versions of ruby.
 2. Install Ruby on Rails, a back end web development framework for the ruby programming language.
 3. Install PostgreSQL, a database the database we'll use with our Ruby on Rails stack.
 
@@ -19,16 +19,23 @@ If you are using an earlier version of RVM, Ruby or Rails, continue with the ins
 
 ## RVM and Ruby
 
-<a href="http://www.rvm.io" target="_new">RVM</a> is a Ruby Version Manager. It lets you easily switch between versions of the ruby programming language for different projects.
+<a href="https://github.com/rbenv/rbenv" target="_new">rbenv</a> is a Ruby Version Manager. It lets you easily switch between versions of the ruby programming language for different projects.
 
-1. Run the following command to install both RVM and the latest version of Ruby.
+1. Run the following brew command to install both rbenv and another library, ruby-build, that helps with installing ruby versions. 
 
     ```
-    \curl -L https://get.rvm.io | bash -s stable --ruby --auto-dotfiles
+    brew install rbenv ruby-build
+    rbenv init 
     ```
 
-**VERY IMPORTANT:**  When the installation is complete, type `which ruby` in the terminal. The response should be `~/<your_user_name>/...` NOT `~/usr/...`
+2. After running ``rbenv init`` you will need to install a version of ruby. You can do this with 
 
+    ```
+    rbenv install 2.3.0    
+    ```
+
+**VERY IMPORTANT:**  When the installation is complete, type `which ruby` in the terminal. The response should be 
+`/Users/<your_user_name>/.rbenv/shims/ruby` NOT `~/usr/...`
 
 
 ## Ruby on Rails 4
@@ -68,11 +75,6 @@ If this causes errors on your machine, ask for help.
     which psql
     ```
 
-## Ruby linter
-Let's install one more Atom package; this time it's a linter for ruby code.
-
-1. In the terminal run `apm install linter-ruby`
-
 <details>
 <summary>Postico (optional)</summary>
 ### Postico
@@ -87,5 +89,4 @@ Postico is a GUI tool to view the contents of your Postgres database.
 
 ### Congratulations!
 This completes Installfest!
-
 
