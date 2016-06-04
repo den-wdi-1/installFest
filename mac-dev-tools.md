@@ -167,7 +167,7 @@ When you forget to enter a commit message in the Terminal, git opens a text edit
 1. If you don't already have it, <a href="https://support.google.com/chrome/answer/95346?hl=en" target="_new">download and install the Chrome web browser</a>.
 
 ## Slack
-You should already have Slack installed and have an account from Fundamentals. You can run Slack in the browser without downloading anything. If you prefer, <a href="https://slack.com/downloads" target="_new">download Slack here</a>.
+You should already have Slack installed and have an account. You can run Slack in the browser without downloading anything. If you prefer, <a href="https://slack.com/downloads" target="_new">download Slack here</a>.
 
 ## Window management
 
