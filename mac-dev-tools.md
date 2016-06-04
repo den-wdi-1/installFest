@@ -131,8 +131,6 @@ Sublime Text has its own very popular package manager called Package Control. We
 
 2. Select `Emmet` from the list, and Package Control will install it for you!  (Start typing "Emmet" in the search bar to narrow down the list.)
 
-The other package we plan to add, jshint, requires Node.js.  We'll get to it in the next set of instructions, linked at the bottom of this file.
-
 ### Access Sublime from the Terminal
 
 Sublime Text 3 includes a program that launches Sublime from the Terminal.  We'll use the `ln` command to link that program to a simple `subl` command. 
