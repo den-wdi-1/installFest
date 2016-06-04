@@ -99,8 +99,6 @@ Configuring your git settings to help GitHub track your contributions and to mak
 
     <a href="https://help.github.com/articles/generating-an-ssh-key" target="_new">Generating SSH Keys (via GitHub.com)</a>
 
-<details>
-<summary>Sublime Text 3 - preferred text editor</summary>
 ## Sublime Text 3
 
 __We understand some Developers prefer Atom or another text editor, but our instructional materials often reference Sublime. You may certainly use another text editor in class, but our instructional materials reference Sublime, so we recommend installing it for the sake of consistency.__
@@ -158,9 +156,6 @@ When you forget to enter a commit message in the Terminal, git opens a text edit
 	```
 	git config --global core.editor "subl"
 	```
-
-</details>
-
 
 ## Chrome
 1. If you don't already have it, <a href="https://support.google.com/chrome/answer/95346?hl=en" target="_new">download and install the Chrome web browser</a>.
