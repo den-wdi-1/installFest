@@ -162,6 +162,7 @@ When you forget to enter a commit message in the Terminal, git opens a text edit
 	```
 	sudo git config --global core.editor "subl"
 	```
+	
 ## Chrome
 1. If you don't already have it, <a href="https://support.google.com/chrome/answer/95346?hl=en" target="_new">download and install the Chrome web browser</a>.
 
