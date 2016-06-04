@@ -157,7 +157,11 @@ When you forget to enter a commit message in the Terminal, git opens a text edit
 	```
 	git config --global core.editor "subl"
 	```
-
+2. You may see an error stating that you don't have permissions to run the command or need to agree to Xcode's terms of service.  If so, run the following command, and agree to the terms if necessary:
+	
+	```
+	sudo git config --global core.editor "subl"
+	```
 ## Chrome
 1. If you don't already have it, <a href="https://support.google.com/chrome/answer/95346?hl=en" target="_new">download and install the Chrome web browser</a>.
 
