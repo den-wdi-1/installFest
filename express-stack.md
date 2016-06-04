@@ -37,7 +37,7 @@ If you see an error about permissions, you can run the following instead:
   ```
 
 ### JSHint for Sublime Text
-It's time to install another Sublime Text package!
+It's time to install another Sublime Text package! (If you need a refresher on how to do this, you can go back to [the Mac Dev Tools installFest](https://github.com/den-wdi-1/installFest/blob/master/mac-dev-tools.md).
 
 1. Select `Package Control: Install Package` to bring up the list of available packages.  Select `SublimeLinter` from the list, and Package Control will install it for you.
 
