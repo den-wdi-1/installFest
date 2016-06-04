@@ -23,6 +23,7 @@ If you are not using Maverick, Yosemite, or El Capitan, detailed instructions fo
 
 1. Open the Terminal application.
 2. In your Terminal, type `xcode-select --install`, and a new window and installer will appear. 
+	3. Note: If you see an error saying that Command Line Tools are already installed, you are all set, and can move on to the Homebrew steps.
 3. Follow the instructions in the installer. 
 
 
