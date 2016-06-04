@@ -182,6 +182,11 @@ This step is optional.
 	6. Double-click Security & Privacy.
 	7. Select the Lock to make changes at the bottom-left of the screen.
 	8. Select the Anywhere radio button to allow this app to open.
+9. You may also see an issue with the Accessibility API when opening the App. If you do, navigate to the Security & Privacy menu as above.
+	10. Select the Privacy tab at the top of the Security & Privacy menu.
+	11. Select Accessibility
+	12. Select the Lock to make changes.
+	13. Check the ShiftIt box.
 
 ShiftIt offers a few shortcut keys like:
 * Move window to the left-half: Command+Option+Control+LeftArrow
