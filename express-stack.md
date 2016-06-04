@@ -27,11 +27,15 @@ Nodemon (short for "node monitor") will make our node.js workflow more efficient
 Install nodemon globally with the following command:
   
   ```
+  npm install -g nodemon
+  ```
+
+If you see an error about permissions, you can run the following instead:
+  
+  ```
   sudo npm install -g nodemon
   ```
 
-<details>
-<summary>JSHint for Sublime Text - matches instructions in coursework</summary>
 ### JSHint for Sublime Text
 It's time to install another Sublime Text package!
 
@@ -40,19 +44,6 @@ It's time to install another Sublime Text package!
 2. Repeat the step above to install the packages "SublimeLinter-jshint".
 
 3. Follow the <a href="https://github.com/SublimeLinter/SublimeLinter-jshint" target="_new">SublimeLinter-jshint install instructions</a> to set up jshint on your laptop. You've just installed Node.js and npm, so you won't need to repeat that step.
-
-</details>
-
-<details>
-<summary>JSHint for Atom - optional alternative to Sublime</summary>
-### JSHint for Atom
-It's time to install another Atom package!  This one helps you spot errors in your javascript code.
-
-1. First we need to install the linter program, `jshint`. In the Terminal, run `npm install -g jshint` to install jshint globally.
-2. Next we'll install a plugin for Atom so that it can display errors in our javascript code.  In the Terminal, run `apm install linter`
-3. Now run `apm install linter-jshint`
-
-</details>
 
 ## MongoDB
 
