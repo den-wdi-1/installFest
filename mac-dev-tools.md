@@ -120,6 +120,7 @@ Sublime Text has its own very popular package manager called Package Control. We
 1. Follow <a href="https://packagecontrol.io/installation" target="_new">Package Control's  "simple installation" instructions</a> to add Package manager to your Sublime Text. When you paste the large block of text, make sure you:
    -  use the Sublime Text 3 version, and 
    -  enter the text into the bottom rectangle of the Sublime Text console (opened with ```View > Show Console``` from Sublime menu).
+   -  You may need to restart Sublime Text when the install is finished.
 
 2. We access Package Control through the Sublime Text command palette. Open the palette by pressing `cmd+shift+p` from within Sublime Text. Type `Package Control`  in the command palette to see the list of things Package Control can do.
 
