@@ -37,6 +37,11 @@ If you are using an earlier version of RVM, Ruby or Rails, continue with the ins
 **VERY IMPORTANT:**  When the installation is complete, type `which ruby` in the terminal. The response should be 
 `/Users/<your_user_name>/.rbenv/shims/ruby` NOT `~/usr/...`
 
+3. Switch to the new version of Ruby you just installed by entering the following in the Terminal
+
+    ```
+    rbenv global 2.3.0    
+    ```
 
 ## Ruby on Rails 4
 
