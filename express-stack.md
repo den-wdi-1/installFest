@@ -43,7 +43,9 @@ It's time to install another Sublime Text package! (If you need a refresher on h
 
 2. Repeat the step above to install the packages "SublimeLinter-jshint".
 
-3. Follow the <a href="https://github.com/SublimeLinter/SublimeLinter-jshint" target="_new">SublimeLinter-jshint install instructions</a> to set up jshint on your laptop. You've just installed Node.js and npm, so you won't need to repeat that step.
+3. Install jshint by typing the following in a terminal:
+
+```npm install -g jshint```
 
 ## MongoDB
 
