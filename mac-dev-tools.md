@@ -177,6 +177,11 @@ This step is optional.
 1. Download https://raw.github.com/onsi/ShiftIt/master/ShiftIt.zip
 2. Extract it and drag the application into your `Applications` directory.
 3. Double-click the ShiftIt icon in `Applications` and follow the instructions to enable the accessibility options.
+4. You may see an error when opening ShiftIt complaining that it is from an unidentified developer. If you do, select the Apple menu in the top-left of your screen.
+	5. Select System Preferences.
+	6. Double-click Security & Privacy.
+	7. Select the Lock to make changes at the bottom-left of the screen.
+	8. Select the Anywhere radio button to allow this app to open.
 
 ShiftIt offers a few shortcut keys like:
 * Move window to the left-half: Command+Option+Control+LeftArrow
