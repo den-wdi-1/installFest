@@ -17,7 +17,7 @@ If you have already experimented with ruby or Ruby on Rails before, verify your 
 If you are using an earlier version of RVM, Ruby or Rails, continue with the instructions to get your environment set up. Run these version commands in the Terminal again after you're done to ensure everything is working properly.
 
 
-## RVM and Ruby
+## rbenv and Ruby
 
 <a href="https://github.com/rbenv/rbenv" target="_new">rbenv</a> is a Ruby Version Manager. It lets you easily switch between versions of the ruby programming language for different projects.
 
@@ -26,7 +26,10 @@ If you are using an earlier version of RVM, Ruby or Rails, continue with the ins
     ```
     brew install rbenv ruby-build
     rbenv init 
+    eval "$(rbenv init -)"
     ```
+The first version of ``rbenv init`` adds the rbenv setup to your profile(so it works when you restart your computer or terminal) and the second call makes sure your current terminal has the rbenv setup.
+
 
 2. After running ``rbenv init`` you will need to install a version of ruby. You can do this with 
 
