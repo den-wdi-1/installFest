@@ -12,9 +12,9 @@ If you have already experimented with ruby or Ruby on Rails before, verify your 
 
 1. In your Terminal, run `ruby --version`.  The output will include the version number of ruby you have installed. **Verify you are running version 2.0+ of Ruby and that it does not say `universal.x86-64`**.  The `universal` build is the one that comes with OS X, we want to use a ruby version supplied by RVM.
 2. In your Terminal, run `rails --version`. **Verify you are running version 4 of Ruby on Rails**.
-3. In your Terminal, run `rvm list`.  **Verify you have version 1.26.x or greater.**
+3. In your Terminal, run `rvm list`.  **Verify this gives rvm: command not found**
 
-If you are using an earlier version of RVM, Ruby or Rails, continue with the instructions to get your environment set up. Run these version commands in the Terminal again after you're done to ensure everything is working properly.
+If you are using RVM, or an earlier version of Ruby or Rails, continue with the instructions to get your environment set up. Run these version commands in the Terminal again after you're done to ensure everything is working properly.
 
 
 ## rbenv and Ruby
@@ -81,6 +81,11 @@ If this causes errors on your machine, ask for help.
 
     ```bash
     which psql
+    ```
+This should return 
+
+    ```bash
+    /usr/local/bin/psql
     ```
 
 <details>
