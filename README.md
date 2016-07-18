@@ -11,3 +11,7 @@ The technologies to install fall into three categories, so we have three sets of
 *In this context, "stack" refers to a group of technologies used together to create a web app.*
 
 If you are unsure what to do or run into problems during installation, don't worry! It happens to every web developer at some point. Read any error messages, recheck the instructions, and ask for help.
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
