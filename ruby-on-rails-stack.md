@@ -59,6 +59,13 @@ Ruby packages are referred to as "gems".
 This might take a few minutes. 
 If this causes errors on your machine, ask for help.
 
+This will need to be set up every time you open Terminal.  To avoid that, add the following two lines to your `.bash_profile` file and, if it exists, your `.bashrc` file:
+
+```
+export PATH="$HOME/.rbenv/bin:$PATH"
+eval "$(rbenv init -)"
+```
+
 
 ## PostgreSQL 
 
